@@ -1,5 +1,6 @@
 h1{
     color:white;
+    
 }
 
 body{ 
@@ -15,6 +16,10 @@ button {
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    float: left;
+    float: center;
     border: 1px solid rgb(0, 0, 0);
+  }
+
+  footer{
+    font-style: 
   }
